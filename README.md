@@ -1,17 +1,17 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Normaly0/JS-Calculator"> <img alt="node-current" src="https://img.shields.io/node/v/v"> <img alt="npm version" src="https://img.shields.io/badge/npm-v8.1.0-blue"> <img alt="license" src="https://img.shields.io/badge/License-GPL%20-orange">
 
-# JS Calculator App
+# :triangular_ruler: JS Calculator App
 
 A simple calculator created on the basis of JS, includes all default features of a regular calculator.
 
-## About
+## :mag: About
 
 This application was built as part of the [Front End Development Libraries Certification](https://www.freecodecamp.org/certification/normaly/front-end-development-libraries).
 
 It uses the react framework and it's class based component system.
 All it's functionalities rely on the application managing and changing its own state based on the user's input.
 
-## How To Run
+## :wrench: How To Run
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Therefore make sure that you have [Node.js](https://nodejs.org/en/) installed.
