@@ -2,14 +2,14 @@
 
 # JS Calculator App
 
-A simple calculator created on the basis of JS, includes all default features of a regular calulator.
+A simple calculator created on the basis of JS, includes all default features of a regular calculator.
 
 ## About
 
-This applicaton was build as part of the [Front End Development Libraries Certification](https://www.freecodecamp.org/certification/normaly/front-end-development-libraries).
+This application was built as part of the [Front End Development Libraries Certification](https://www.freecodecamp.org/certification/normaly/front-end-development-libraries).
 
 It uses the react framework and it's class based component system.
-All it's functionalities rely on the application managing and changing it's own state based on the users input.
+All it's functionalities rely on the application managing and changing its own state based on the user's input.
 
 ## How To Run
 
@@ -22,11 +22,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
